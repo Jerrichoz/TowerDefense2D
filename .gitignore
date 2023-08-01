@@ -1,0 +1,11 @@
+# Ignore these files except .cs files
+!*.cs
+*.meta
+# Ignore the Scripts folder and its contents
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+Scenes/
